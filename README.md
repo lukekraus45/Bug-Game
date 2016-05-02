@@ -1,5 +1,6 @@
 # Bug-Game
-A game that is written in MIPS and allows the user to fire a pulse to scare away bugs. Needs special MIPS software to run (see bellow) 
+A game that is written in MIPS and allows the user to fire a pulse to scare away bugs. Needs special MIPS software to run. Use the .jar file above and under tools select: Keyboard and LED Display Simulator  
+
 Luke Kraus
 lek81@pitt.edu
 Assignment 1 Spring 2016
